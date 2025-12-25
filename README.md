@@ -26,12 +26,12 @@ and action items we'll need throughout the duration of the project.
  https://drive.google.com/file/d/1j0YBsiq7Ke-9vfQncjFtOocedralhac1/view?usp=sharing
 
 
-### 2️⃣ TikTok – Claims Classification Project
+# 2️⃣ TikTok – Claims Classification Project
 - Structured analytical tasks for a machine learning classification problem
 - Organized milestones aligned with leadership requirements
 - Emphasized ethical considerations and data-driven decision-making
 
-### 3️⃣ Waze – User Churn Prediction
+# 3️⃣ Waze – User Churn Prediction
 - Planned an end-to-end analytics workflow to predict monthly user churn
 - Applied PACE methodology to define milestones and deliverables
 - Focused on business impact and stakeholder alignment
