@@ -17,7 +17,7 @@ This repository contains end-to-end data analytics projects completed as part of
 - My task, please draft a plan of action for the team. Include questions we need to answer before we get started on the project, important details to consider at the beginning of the project,
 and action items we'll need throughout the duration of the project.
 
-## 📄 Project Documents
+# 📄 Project Documents
 
 - PACE Strategy Document:  
   https://drive.google.com/file/d/13byhBkOX7x02I9VbIJ-CW2epa-Qhw4gB/view?usp=sharing
