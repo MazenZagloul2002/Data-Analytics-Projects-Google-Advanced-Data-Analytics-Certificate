@@ -12,7 +12,7 @@ This repository contains end-to-end data analytics projects completed as part of
 
 ## 🔹 Projects Overview
 
-### 1️⃣ Automatidata – Taxi Fare Estimation https://drive.google.com/file/d/13byhBkOX7x02I9VbIJ-CW2epa-Qhw4gB/view?usp=sharing
+### 1️⃣ Automatidata – Taxi Fare Estimation
 - Designed a project proposal for estimating NYC taxi fares
 - Identified stakeholders, milestones, and PACE stages
 - Focused on stakeholder communication and project planning
