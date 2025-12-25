@@ -13,12 +13,8 @@ This repository contains end-to-end data analytics projects completed as part of
 ## 🔹 Projects Overview
 
 # 1️⃣ Automatidata – Taxi Fare Estimation
-Scenario:
 - The aim is to build a regression model that predicts taxi cab fares before each ride based on distance, time of day, and any additional variables.
-- My task, please draft a plan of action for the team. Include questions we need to answer before we get started on the project, important details to consider at the beginning of the project,
-and action items we'll need throughout the duration of the project.
-
-## 📄 Project Documents
+### 📄 Project Documents
 
 - PACE Strategy Document:  
   https://drive.google.com/file/d/13byhBkOX7x02I9VbIJ-CW2epa-Qhw4gB/view?usp=sharing
@@ -29,9 +25,8 @@ and action items we'll need throughout the duration of the project.
 
 
 # 2️⃣ TikTok – Claims Classification Project
-Scenario:
 - The goal is to build a machine learning model with the capability to reliably classify user interaction data as a claim or opinion.
-## 📄 Project Documents
+### 📄 Project Documents
 
 - PACE Strategy Document:  
   https://drive.google.com/file/d/1GtAYKwUVIuIelF1IXFVd_5Kny0pM2GYn/view?usp=sharing
