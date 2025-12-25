@@ -13,9 +13,17 @@ This repository contains end-to-end data analytics projects completed as part of
 ## 🔹 Projects Overview
 
 ### 1️⃣ Automatidata – Taxi Fare Estimation
-- Designed a project proposal for estimating NYC taxi fares
-- Identified stakeholders, milestones, and PACE stages
-- Focused on stakeholder communication and project planning
+- The aim is to build a regression model that predicts taxi cab fares before each ride based on distance, time of day, and any additional variables.
+- My task, please draft a plan of action for the team. Include questions we need to answer before we get started on the project, important details to consider at the beginning of the project,
+and action items we'll need throughout the duration of the project.
+
+## 📄 Project Documents
+
+- PACE Strategy Document:  
+  https://drive.google.com/file/d/13byhBkOX7x02I9VbIJ-CW2epa-Qhw4gB/view?usp=sharing
+
+- Project Proposal:  
+ https://drive.google.com/file/d/1j0YBsiq7Ke-9vfQncjFtOocedralhac1/view?usp=sharing
 
 
 ### 2️⃣ TikTok – Claims Classification Project
