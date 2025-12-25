@@ -16,6 +16,7 @@ This repository contains end-to-end data analytics projects completed as part of
 - Designed a project proposal for estimating NYC taxi fares
 - Identified stakeholders, milestones, and PACE stages
 - Focused on stakeholder communication and project planning
+  <img width="609" height="726" alt="image" src="https://github.com/user-attachments/assets/44c1275d-eafc-48ca-a2cb-2cc96bda436f" />
 
 ### 2️⃣ TikTok – Claims Classification Project
 - Structured analytical tasks for a machine learning classification problem
