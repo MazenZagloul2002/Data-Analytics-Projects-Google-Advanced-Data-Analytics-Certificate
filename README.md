@@ -12,11 +12,11 @@ This repository contains end-to-end data analytics projects completed as part of
 
 ## 🔹 Projects Overview
 
-### 1️⃣ Automatidata – Taxi Fare Estimation
+### 1️⃣ Automatidata – Taxi Fare Estimation https://drive.google.com/file/d/13byhBkOX7x02I9VbIJ-CW2epa-Qhw4gB/view?usp=sharing
 - Designed a project proposal for estimating NYC taxi fares
 - Identified stakeholders, milestones, and PACE stages
 - Focused on stakeholder communication and project planning
-  <img width="609" height="726" alt="image" src="https://github.com/user-attachments/assets/44c1275d-eafc-48ca-a2cb-2cc96bda436f" />
+
 
 ### 2️⃣ TikTok – Claims Classification Project
 - Structured analytical tasks for a machine learning classification problem
